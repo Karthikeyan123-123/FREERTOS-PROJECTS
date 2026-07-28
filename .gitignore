@@ -1,0 +1,33 @@
+# Build folders
+Debug/
+Release/
+
+# Object files
+*.o
+
+# Executables
+*.elf
+*.hex
+*.bin
+
+# Dependency files
+*.d
+
+# Listing files
+*.list
+
+# Map files
+*.map
+
+# Temporary files
+*.tmp
+
+# Logs
+*.log
+
+# Eclipse generated
+.settings/
+
+# OS files
+Thumbs.db
+.DS_Store
